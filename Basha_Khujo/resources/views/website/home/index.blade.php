@@ -324,28 +324,28 @@
                 <div class="col-md-3 col-sm-6">
                     <a href="{{route('dhaka.home')}}">
                         <img src="{{asset('/')}}website/images/Division/Dhaka.jpg" alt="Image" style="height: 250px; width: 100%">
-                        <h4 class="text-center">Dhaka Division</h4>
+                        <h4 class="text-center pt-2">Dhaka Division</h4>
                         <h6 class="text-center">This is the most populer</h6>
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="#">
                         <img src="{{asset('/')}}website/images/Division/Barishal.jpg" alt="Image" style="height: 250px; width: 100%">
-                        <h4 class="text-center">Barishal Division</h4>
+                        <h4 class="text-center pt-2">Barishal Division</h4>
                         <h6 class="text-center">This is the most populer</h6>
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="#">
                         <img class="" src="{{asset('/')}}website/images/Division/Khulna.jpg" alt="Image" style="height: 250px; width: 100%">
-                        <h4 class="text-center">Khulna Division</h4>
+                        <h4 class="text-center pt-2">Khulna Division</h4>
                         <p class="text-center">This is the most populer</p>
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="#">
                         <img class="" src="{{asset('/')}}website/images/Division/Rajshahi.jpg" alt="Image" style="height: 250px; width: 100%">
-                        <h4 class="text-center">Rajshahi Division</h4>
+                        <h4 class="text-center pt-2">Rajshahi Division</h4>
                         <p class="text-center">This is the most populer</p>
                     </a>
                 </div>
@@ -354,28 +354,28 @@
                 <div class="col-md-3 col-sm-6">
                     <a href="{{route('division.chattogram')}}">
                         <img src="{{asset('/')}}website/images/Division/Chattogram.jpg" alt="Image" style="height: 250px; width: 100%">
-                        <h4 class="text-center">Chattogram Division</h4>
+                        <h4 class="text-center pt-2">Chattogram Division</h4>
                         <p class="text-center">This is the most populer</p>
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="#">
                         <img src="{{asset('/')}}website/images/Division/Mymensingh.jpg" alt="Image" style="height: 250px; width: 100%">
-                        <h4 class="text-center">Mymensingh Division</h4>
+                        <h4 class="text-center pt-2">Mymensingh Division</h4>
                         <p class="text-center">This is the most populer</p>
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="#">
                         <img class="" src="{{asset('/')}}website/images/Division/Rangpur.jpg" alt="Image" style="height: 250px; width: 100%">
-                        <h4 class="text-center">Rangpur Division</h4>
+                        <h4 class="text-center pt-2">Rangpur Division</h4>
                         <p class="text-center">This is the most populer</p>
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="#">
                         <img class="" src="{{asset('/')}}website/images/Division/Sylhet.jpg" alt="Image" style="height: 250px; width: 100%">
-                        <h4 class="text-center">Sylhet Division</h4>
+                        <h4 class="text-center pt-2">Sylhet Division</h4>
                         <p class="text-center">This is the most populer</p>
                     </a>
                 </div>
