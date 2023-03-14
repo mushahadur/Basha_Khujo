@@ -31,14 +31,18 @@
 
                     <div class="col-md-5">
                         <div class="card-body">
-                            <h3 class="card-title pb-3">Cholontika Housing Damador</h3>
-                            <h6 class="card-text"><strong>House Description :</strong>
-                                This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                                This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+                            <h3 class="card-title ">Cholontika Housing Damador</h3>
+                            <h4 class="">House Address</h4>
+                            <h5 class=" pb-3">Booking Price : 12,000 TK</h5>
+                            <h6 class=""><strong>House Description :</strong>
                                 This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
                                 This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
                                 This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
                             </h6>
+                            <div>
+                                <h5> Number of Bed Room : 5 </h5>
+                                <h5>  Number of Bath Room :2 </h5>
+                            </div>
                             <p class="card-text pb-3"><small class="text-muted">Last updated 3 mins ago</small></p>
                             <div class="pt-5">
                                 <button class="btn btn-success">Booking This Home</button>
@@ -51,16 +55,26 @@
         </div>
     </div>
 </section>
-    <section class="py-5 bg-light">
+    <section class="py-4" style="background-color: rgba(219,239,243,0.39)">
         <div class="container">
             <h3 class="pb-5">Discrive in this home</h3>
             <div class="row ">
                 <div class="col-md-6">
-                    <iframe width="100%" height="415"
+                    <h4 class="text-center pb-3">This is Bath Room</h4>
+                    <img src="{{asset('/')}}website/images/img_5.jpg" alt="" style="height: 400px; width: 100%; padding: 10px;">
+                </div>
+                <div class="col-md-6">
+                    <h4 class="text-center pb-3">This is Kitchen Room</h4>
+                    <img src="{{asset('/')}}website/images/img_8.jpg" alt="" style="height: 400px; width: 100%; padding: 10px;">
+                </div>
+            </div>
+            <div class="row pt-4">
+                <div class="col-md-6">
+                    <iframe  width="100%" height="415"
                             src="https://www.youtube.com/embed/tgbNymZ7vqY">
                     </iframe>
                 </div>
-                <div class="col-md-6 shadow ml-3">
+                <div class="col-md-6 col-sm-12 shadow ">
                     <iframe class="h-100 w-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.602583276092!2d90.37059391445675!3d23.797162292906446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c0cd7313eb1d%3A0x1b8b8fc444fa23eb!2sKazipara%20Bus%20Stop!5e0!3m2!1sen!2sbd!4v1649709787505!5m2!1sen!2sbd" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
